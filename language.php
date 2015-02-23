@@ -1,0 +1,1 @@
+<div class="language"><div id="ru" onClick="changeLanguage('ru');">&nbsp;</div>&nbsp;<div id="en" onClick="changeLanguage('en');">&nbsp;</div> </div>
